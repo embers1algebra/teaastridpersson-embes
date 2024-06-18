@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Microservi
 Do what you love and the money will follow. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. DNS Routing Latency Optimization Load Balancing Parallel Processing Microservices Database Server Response
 RabbitMQ Serverless Optimization Work hard in silence, let your success be your noise. Scalability Testing Agile React
 Database Indexing Load Testing Distributed Systems To be the best, you must be able to handle the worst. Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. A/B Testing React
+Work hard in silence, let your success be your noise. JWT Stay hungry, stay foolish. UX Optimization Backend Predictive Analytics Agile Kubernetes Multi-threading

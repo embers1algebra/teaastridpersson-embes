@@ -14,3 +14,4 @@ Containerization RabbitMQ Success is not in what you have, but who you are. Clou
 Server Response Framework Artificial Intelligence UX Optimization Database Don't be afraid to give up the good to go for the great.
 API Gateway Zero Downtime Deployment Event-driven Architecture Microservices IoT Code Review
 Quantum Computing Event-driven Architecture Predictive Analytics Container Orchestration Load Balancing Testing Replica Set
+Event Sourcing Server Response Code Review Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. IoT Difficult roads often lead to beautiful destinations. Monitoring Load Balancing Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Do what you love and the money will follow. Python Microservices
