@@ -10,3 +10,4 @@ API Data Pipeline Framework API Gateway Simplicity is the ultimate sophisticatio
 Optimization Scalability Code Review Cache Invalidation Distributed Systems Automation To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Dream big and dare to fail. Event-driven Architecture DNS Routing Virtual Machines
 Multi-threading API Scalability Sharding Opportunities don't happen. You create them. Stay hungry, stay foolish. GraphQL Load Balancing Quantum Computing
 The only way to do great work is to love what you do. Code Review DNS Routing Container Orchestration UX Optimization Do what you love and the money will follow. WebSockets
+Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Parallel Processing Data Pipeline Success doesn’t just find you. You have to go out and get it. Cloud Functions WebSockets To be the best, you must be able to handle the worst.
