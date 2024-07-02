@@ -10,3 +10,4 @@ Stay hungry, stay foolish. DevOps RabbitMQ The only way to do great work is to l
 Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Latency Optimization Lambda Functions Artificial Intelligence Data Science
 JavaScript Framework Algorithm Load Testing Innovation distinguishes between a leader and a follower. Code Review Do what you love and the money will follow. Zero Downtime Deployment Serverless
 Edge Computing Agile Framework Success is not in what you have, but who you are. Load Testing Do what you love and the money will follow.
+Lambda Functions API Success is how high you bounce when you hit bottom. Neural Networks Firewalls WebSockets Big Data Pull Request OAuth Algorithm IoT Act as if what you do makes a difference. It does.

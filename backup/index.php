@@ -13,3 +13,4 @@ Testing Cloud Code Review JWT Server Response Blockchain Virtual Machines Zero D
 Containerization RabbitMQ Success is not in what you have, but who you are. Cloud Microservices Great things never come from comfort zones. Database Indexing API Stay hungry, stay foolish.
 Server Response Framework Artificial Intelligence UX Optimization Database Don't be afraid to give up the good to go for the great.
 API Gateway Zero Downtime Deployment Event-driven Architecture Microservices IoT Code Review
+Quantum Computing Event-driven Architecture Predictive Analytics Container Orchestration Load Balancing Testing Replica Set
