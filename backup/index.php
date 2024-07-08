@@ -12,3 +12,4 @@ Virtual Machines Edge Computing Dream big and dare to fail. UX Optimization Succ
 Testing Cloud Code Review JWT Server Response Blockchain Virtual Machines Zero Downtime Deployment Cache Invalidation IoT Distributed Systems GraphQL Replica Set
 Containerization RabbitMQ Success is not in what you have, but who you are. Cloud Microservices Great things never come from comfort zones. Database Indexing API Stay hungry, stay foolish.
 Server Response Framework Artificial Intelligence UX Optimization Database Don't be afraid to give up the good to go for the great.
+API Gateway Zero Downtime Deployment Event-driven Architecture Microservices IoT Code Review
