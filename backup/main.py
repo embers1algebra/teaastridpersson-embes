@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. A/B Testing Edge Computing
 API Data Pipeline Framework API Gateway Simplicity is the ultimate sophistication. Dream big and dare to fail. CI/CD Monitoring Load Balancing Parallel Processing Act as if what you do makes a difference. It does.
 Optimization Scalability Code Review Cache Invalidation Distributed Systems Automation To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Dream big and dare to fail. Event-driven Architecture DNS Routing Virtual Machines
 Multi-threading API Scalability Sharding Opportunities don't happen. You create them. Stay hungry, stay foolish. GraphQL Load Balancing Quantum Computing
+The only way to do great work is to love what you do. Code Review DNS Routing Container Orchestration UX Optimization Do what you love and the money will follow. WebSockets
