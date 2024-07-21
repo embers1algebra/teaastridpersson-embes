@@ -9,3 +9,4 @@ IoT JavaScript Containerization Parallel Processing Machine Learning A/B Testing
 I find that the harder I work, the more luck I seem to have. Data Pipeline Framework Machine Learning Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Load Balancing IoT Don't be afraid to give up the good to go for the great. API Gateway
 Serverless Agile JWT Database DNS Routing Logging Difficult roads often lead to beautiful destinations. Framework JavaScript
 RabbitMQ Data Science Automation Great things never come from comfort zones. Content Delivery Network Event Sourcing Monitoring Zero Downtime Deployment
+Code Review Message Queue UX Optimization Distributed Systems React Success doesn’t just find you. You have to go out and get it. Big Data I find that the harder I work, the more luck I seem to have. Data Science
