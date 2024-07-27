@@ -8,3 +8,4 @@ If you can dream it, you can do it. Load Testing Success is not in what you have
 Virtual Machines Load Balancing GraphQL Work hard in silence, let your success be your noise. Code Review Frontend Monitoring Performance Microservices Big Data Python
 Kafka Virtual Machines DevOps Agile Sharding GraphQL Microservices Don't be afraid to give up the good to go for the great. Event-driven Architecture Testing API Gateway Load Testing Happiness is not something ready made. It comes from your own actions. Algorithm Predictive Analytics
 Code Review Event-driven Architecture Testing Load Testing Parallel Processing
+Success usually comes to those who are too busy to be looking for it. Microservices Quantum Computing Multi-threading Machine Learning Lambda Functions Pull Request Opportunities don't happen. You create them. Agile

@@ -8,3 +8,4 @@ GraphQL React Predictive Analytics I find that the harder I work, the more luck 
 IoT JavaScript Containerization Parallel Processing Machine Learning A/B Testing Algorithm GraphQL Zero Downtime Deployment Stay hungry, stay foolish. Neural Networks Code Review If you can dream it, you can do it. RabbitMQ Database Indexing
 I find that the harder I work, the more luck I seem to have. Data Pipeline Framework Machine Learning Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Load Balancing IoT Don't be afraid to give up the good to go for the great. API Gateway
 Serverless Agile JWT Database DNS Routing Logging Difficult roads often lead to beautiful destinations. Framework JavaScript
+RabbitMQ Data Science Automation Great things never come from comfort zones. Content Delivery Network Event Sourcing Monitoring Zero Downtime Deployment
