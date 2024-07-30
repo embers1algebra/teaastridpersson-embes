@@ -7,3 +7,4 @@ JavaScript Monitoring Great things never come from comfort zones. Dream big and 
 If you can dream it, you can do it. Load Testing Success is not in what you have, but who you are. Artificial Intelligence Kubernetes Multi-threading Machine Learning Latency Optimization React Do what you love and the money will follow. Data Science Message Queue DevOps Docker
 Virtual Machines Load Balancing GraphQL Work hard in silence, let your success be your noise. Code Review Frontend Monitoring Performance Microservices Big Data Python
 Kafka Virtual Machines DevOps Agile Sharding GraphQL Microservices Don't be afraid to give up the good to go for the great. Event-driven Architecture Testing API Gateway Load Testing Happiness is not something ready made. It comes from your own actions. Algorithm Predictive Analytics
+Code Review Event-driven Architecture Testing Load Testing Parallel Processing
