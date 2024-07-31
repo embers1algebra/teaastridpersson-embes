@@ -9,3 +9,4 @@ RabbitMQ Great things never come from comfort zones. Distributed Systems Blockch
 OAuth Load Balancing Edge Computing Replica Set Automation
 RabbitMQ Simplicity is the ultimate sophistication. Backend Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Server Response Latency Optimization OAuth Container Orchestration
 Frontend Code Review Difficult roads often lead to beautiful destinations. Version Control Container Orchestration Machine Learning Load Testing DNS Routing Big Data
+Container Orchestration Act as if what you do makes a difference. It does. Testing Cloud CI/CD Zero Downtime Deployment
