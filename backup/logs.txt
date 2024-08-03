@@ -8,3 +8,4 @@ Performance IoT Algorithm Python Lambda Functions
 RabbitMQ Great things never come from comfort zones. Distributed Systems Blockchain Dream big and dare to fail. Virtual Machines Frontend
 OAuth Load Balancing Edge Computing Replica Set Automation
 RabbitMQ Simplicity is the ultimate sophistication. Backend Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Server Response Latency Optimization OAuth Container Orchestration
+Frontend Code Review Difficult roads often lead to beautiful destinations. Version Control Container Orchestration Machine Learning Load Testing DNS Routing Big Data
