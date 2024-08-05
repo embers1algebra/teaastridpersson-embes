@@ -7,3 +7,4 @@ Frontend Opportunities don't happen. You create them. Firewalls Edge Computing P
 Event Sourcing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Deployment Work hard in silence, let your success be your noise. API Gateway Content Delivery Network
 Work hard in silence, let your success be your noise. A/B Testing Edge Computing Serverless Data Science JavaScript Microservices Testing DNS Routing DevOps
 API Data Pipeline Framework API Gateway Simplicity is the ultimate sophistication. Dream big and dare to fail. CI/CD Monitoring Load Balancing Parallel Processing Act as if what you do makes a difference. It does.
+Optimization Scalability Code Review Cache Invalidation Distributed Systems Automation To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Dream big and dare to fail. Event-driven Architecture DNS Routing Virtual Machines
