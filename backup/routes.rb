@@ -7,3 +7,4 @@ Artificial Intelligence Kafka API Containerization NLP
 Serverless Don't be afraid to give up the good to go for the great. IoT GraphQL Scalability Microservices Backend
 Event Sourcing Kubernetes Replica Set Load Balancing Frontend OAuth Deployment Data Pipeline Version Control Work hard in silence, let your success be your noise.
 Stay hungry, stay foolish. DevOps RabbitMQ The only way to do great work is to love what you do. NLP Framework DNS Routing UX Optimization
+Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Latency Optimization Lambda Functions Artificial Intelligence Data Science
