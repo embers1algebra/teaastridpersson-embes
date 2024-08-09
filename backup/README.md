@@ -7,3 +7,4 @@ Data Science Replica Set Sharding JWT Dream big and dare to fail. Success is not
 Quantum Computing OAuth A/B Testing DNS Routing Distributed Systems Success is how high you bounce when you hit bottom. CI/CD Firewalls Blockchain
 Latency Optimization Multi-threading Docker Stay hungry, stay foolish. Framework JavaScript Server Response
 Big Data Container Orchestration Event Sourcing If you can dream it, you can do it. Automation Framework Scalability Cloud
+Great things never come from comfort zones. DevOps Performance Multi-threading Deployment Stay hungry, stay foolish. A/B Testing
