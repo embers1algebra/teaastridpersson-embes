@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Agile Act as if what y
 Artificial Intelligence Kafka API Containerization NLP
 Serverless Don't be afraid to give up the good to go for the great. IoT GraphQL Scalability Microservices Backend
 Event Sourcing Kubernetes Replica Set Load Balancing Frontend OAuth Deployment Data Pipeline Version Control Work hard in silence, let your success be your noise.
+Stay hungry, stay foolish. DevOps RabbitMQ The only way to do great work is to love what you do. NLP Framework DNS Routing UX Optimization
