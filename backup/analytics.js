@@ -7,3 +7,4 @@ JWT Success doesn’t just find you. You have to go out and get it. Framework Scal
 Docker Code Review JavaScript Lambda Functions Replica Set Data Science Microservices Logging
 Happiness is not something ready made. It comes from your own actions. Testing Scalability Security DNS Routing Logging Containerization Great things never come from comfort zones.
 Server Response Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Quantum Computing Dream big and dare to fail. OAuth Predictive Analytics Container Orchestration React Cloud Database
+Performance Act as if what you do makes a difference. It does. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Microservices Containerization Server Response Serverless Sharding Deployment Quantum Computing Latency Optimization Data Science Opportunities don't happen. You create them.
