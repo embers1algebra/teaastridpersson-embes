@@ -5,3 +5,4 @@ DevOps Do what you love and the money will follow. Event Sourcing Lambda Functio
 Load Testing Performance Great things never come from comfort zones. Deployment OAuth Python I find that the harder I work, the more luck I seem to have. Replica Set Pull Request Content Delivery Network Optimization Firewalls Kubernetes Predictive Analytics Blockchain
 Data Science Replica Set Sharding JWT Dream big and dare to fail. Success is not in what you have, but who you are. Server Response Load Balancing Difficult roads often lead to beautiful destinations. Frontend Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Neural Networks React Docker
 Quantum Computing OAuth A/B Testing DNS Routing Distributed Systems Success is how high you bounce when you hit bottom. CI/CD Firewalls Blockchain
+Latency Optimization Multi-threading Docker Stay hungry, stay foolish. Framework JavaScript Server Response
