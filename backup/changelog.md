@@ -7,3 +7,4 @@ JavaScript CI/CD API Cloud Functions Happiness is not something ready made. It c
 Frontend Big Data Containerization Machine Learning Python Latency Optimization Code Review Container Orchestration Data Science NLP Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Lambda Functions Automation
 To be the best, you must be able to handle the worst. Kafka Framework Cache Invalidation DNS Routing Load Testing
 Load Testing API Difficult roads often lead to beautiful destinations. Backend Replica Set
+Opportunities don't happen. You create them. Stay hungry, stay foolish. Machine Learning Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Docker Do what you love and the money will follow. React Great things never come from comfort zones. Replica Set Server Response Pull Request DNS Routing Act as if what you do makes a difference. It does.
