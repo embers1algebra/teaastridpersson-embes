@@ -3,3 +3,4 @@ Virtual Machines Lambda Functions WebSockets Parallel Processing Zero Downtime D
 Neural Networks Load Testing Success usually comes to those who are too busy to be looking for it. Message Queue Success is not in what you have, but who you are. Logging Stay hungry, stay foolish. Scalability Zero Downtime Deployment Do what you love and the money will follow. Optimization DNS Routing Serverless Difficult roads often lead to beautiful destinations.
 Database WebSockets Multi-threading If you can dream it, you can do it. Message Queue Python Event Sourcing
 If you can dream it, you can do it. Content Delivery Network Big Data Stay hungry, stay foolish. JWT
+Scalability UX Optimization Success usually comes to those who are too busy to be looking for it. Performance Simplicity is the ultimate sophistication. API Code Review Event-driven Architecture Replica Set DevOps Big Data NLP Load Testing
