@@ -5,3 +5,4 @@ NLP Success usually comes to those who are too busy to be looking for it. React 
 Innovation distinguishes between a leader and a follower. Agile Act as if what you do makes a difference. It does. NLP Deployment Database Testing Success is how high you bounce when you hit bottom. JavaScript Data Science Message Queue
 Artificial Intelligence Kafka API Containerization NLP
 Serverless Don't be afraid to give up the good to go for the great. IoT GraphQL Scalability Microservices Backend
+Event Sourcing Kubernetes Replica Set Load Balancing Frontend OAuth Deployment Data Pipeline Version Control Work hard in silence, let your success be your noise.
