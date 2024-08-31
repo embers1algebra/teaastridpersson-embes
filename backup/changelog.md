@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Optimization Deployment WebSoc
 Lambda Functions Quantum Computing Security Replica Set Algorithm Testing Load Testing Blockchain Success doesn’t just find you. You have to go out and get it.
 JavaScript CI/CD API Cloud Functions Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Deployment Quantum Computing Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Automation Kubernetes React
 Frontend Big Data Containerization Machine Learning Python Latency Optimization Code Review Container Orchestration Data Science NLP Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Lambda Functions Automation
+To be the best, you must be able to handle the worst. Kafka Framework Cache Invalidation DNS Routing Load Testing
