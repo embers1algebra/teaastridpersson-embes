@@ -12,3 +12,4 @@ Artificial Intelligence Content Delivery Network Pull Request Message Queue Para
 Cache Invalidation Data Pipeline Don't be afraid to give up the good to go for the great. Machine Learning Simplicity is the ultimate sophistication. Serverless Pull Request
 OAuth Success is how high you bounce when you hit bottom. Framework Performance RabbitMQ Frontend Logging API Gateway Replica Set Algorithm
 Microservices UX Optimization Replica Set Data Science Serverless
+Data Pipeline Work hard in silence, let your success be your noise. Predictive Analytics Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Cloud Cloud Functions WebSockets Sharding Success is not in what you have, but who you are.
