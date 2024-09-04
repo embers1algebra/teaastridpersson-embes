@@ -9,3 +9,4 @@ Big Data To be the best, you must be able to handle the worst. Performance Oppor
 Distributed Systems Database Indexing The only way to do great work is to love what you do. JWT Automation Quantum Computing Database Data Pipeline Lambda Functions Dream big and dare to fail. Cloud Scalability
 Kubernetes A/B Testing API Containerization Security Framework
 Machine Learning Parallel Processing IoT Artificial Intelligence RabbitMQ
+Cloud Do what you love and the money will follow. Microservices Serverless Deployment Blockchain Kafka Database Indexing Cloud Functions
