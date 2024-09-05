@@ -11,3 +11,4 @@ Message Queue Dream big and dare to fail. Do what you love and the money will fo
 Artificial Intelligence Content Delivery Network Pull Request Message Queue Parallel Processing Edge Computing
 Cache Invalidation Data Pipeline Don't be afraid to give up the good to go for the great. Machine Learning Simplicity is the ultimate sophistication. Serverless Pull Request
 OAuth Success is how high you bounce when you hit bottom. Framework Performance RabbitMQ Frontend Logging API Gateway Replica Set Algorithm
+Microservices UX Optimization Replica Set Data Science Serverless
