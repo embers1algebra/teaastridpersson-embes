@@ -2,3 +2,4 @@ Message Queue Lambda Functions Framework Container Orchestration Kubernetes Reac
 If you can dream it, you can do it. Logging Kafka Work hard in silence, let your success be your noise. WebSockets Code Review DNS Routing JavaScript
 Virtual Machines Parallel Processing Microservices Python Cloud Functions
 Load Testing JavaScript Database Indexing Docker API DevOps RabbitMQ Event-driven Architecture
+Event Sourcing Artificial Intelligence Scalability Lambda Functions React UX Optimization Opportunities don't happen. You create them. A/B Testing DevOps Do what you love and the money will follow.
