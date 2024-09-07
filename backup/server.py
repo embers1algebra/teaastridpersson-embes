@@ -5,3 +5,4 @@ Cloud Functions I find that the harder I work, the more luck I seem to have. Qua
 Artificial Intelligence Framework Backend Load Testing I find that the harder I work, the more luck I seem to have. Cache Invalidation Distributed Systems Machine Learning
 Docker JavaScript Logging Message Queue Parallel Processing Testing Act as if what you do makes a difference. It does.
 Success is not in what you have, but who you are. Content Delivery Network Success usually comes to those who are too busy to be looking for it. Algorithm Blockchain Security DNS Routing Docker The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. API Quantum Computing Cache Invalidation
+Event-driven Architecture IoT Quantum Computing Multi-threading Server Response Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. API JWT UX Optimization

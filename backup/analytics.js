@@ -6,3 +6,4 @@ Agile Scalability Deployment Container Orchestration Difficult roads often lead 
 JWT Success doesn’t just find you. You have to go out and get it. Framework Scalability Replica Set Edge Computing Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. A/B Testing Serverless
 Docker Code Review JavaScript Lambda Functions Replica Set Data Science Microservices Logging
 Happiness is not something ready made. It comes from your own actions. Testing Scalability Security DNS Routing Logging Containerization Great things never come from comfort zones.
+Server Response Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Quantum Computing Dream big and dare to fail. OAuth Predictive Analytics Container Orchestration React Cloud Database
