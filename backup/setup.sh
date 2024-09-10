@@ -8,3 +8,4 @@ Great things never come from comfort zones. Simplicity is the ultimate sophistic
 Big Data To be the best, you must be able to handle the worst. Performance Opportunities don't happen. You create them. Frontend Python
 Distributed Systems Database Indexing The only way to do great work is to love what you do. JWT Automation Quantum Computing Database Data Pipeline Lambda Functions Dream big and dare to fail. Cloud Scalability
 Kubernetes A/B Testing API Containerization Security Framework
+Machine Learning Parallel Processing IoT Artificial Intelligence RabbitMQ
