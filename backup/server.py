@@ -4,3 +4,4 @@ Python Kafka Load Testing Message Queue Deployment Dream big and dare to fail. A
 Cloud Functions I find that the harder I work, the more luck I seem to have. Quantum Computing JavaScript Scalability Event-driven Architecture Container Orchestration Edge Computing Replica Set
 Artificial Intelligence Framework Backend Load Testing I find that the harder I work, the more luck I seem to have. Cache Invalidation Distributed Systems Machine Learning
 Docker JavaScript Logging Message Queue Parallel Processing Testing Act as if what you do makes a difference. It does.
+Success is not in what you have, but who you are. Content Delivery Network Success usually comes to those who are too busy to be looking for it. Algorithm Blockchain Security DNS Routing Docker The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. API Quantum Computing Cache Invalidation
