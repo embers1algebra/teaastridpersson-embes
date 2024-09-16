@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. Success is how high you bounce when y
 Blockchain Testing Replica Set IoT Multi-threading The only way to do great work is to love what you do. Deployment
 Cache Invalidation Containerization NLP Stay hungry, stay foolish. Scalability Success doesn’t just find you. You have to go out and get it.
 JavaScript Monitoring Great things never come from comfort zones. Dream big and dare to fail. Serverless NLP Automation Data Science Server Response React Difficult roads often lead to beautiful destinations. Content Delivery Network OAuth
+If you can dream it, you can do it. Load Testing Success is not in what you have, but who you are. Artificial Intelligence Kubernetes Multi-threading Machine Learning Latency Optimization React Do what you love and the money will follow. Data Science Message Queue DevOps Docker
