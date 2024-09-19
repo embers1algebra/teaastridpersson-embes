@@ -4,3 +4,4 @@ Event-driven Architecture Sharding Neural Networks The only way to do great work
 Deployment DevOps Work hard in silence, let your success be your noise. Database To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Cache Invalidation Security Cloud Functions Code Review
 A/B Testing Zero Downtime Deployment IoT Frontend I find that the harder I work, the more luck I seem to have. Algorithm Framework Stay hungry, stay foolish. Code Review Kafka API If you can dream it, you can do it. Data Science API Gateway
 Success is how high you bounce when you hit bottom. Serverless Firewalls Microservices Work hard in silence, let your success be your noise. Latency Optimization
+Python Automation Don't be afraid to give up the good to go for the great. Edge Computing Monitoring Serverless Simplicity is the ultimate sophistication. Sharding Database DevOps Multi-threading
