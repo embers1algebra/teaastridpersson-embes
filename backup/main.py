@@ -4,3 +4,4 @@ Deployment Event Sourcing React Firewalls Python Edge Computing Don't be afraid 
 Deployment Logging Cache Invalidation Container Orchestration Data Pipeline Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Data Science Firewalls Simplicity is the ultimate sophistication.
 Optimization API Opportunities don't happen. You create them. JWT Load Testing Virtual Machines Kubernetes Sharding Event-driven Architecture Artificial Intelligence Agile
 Frontend Opportunities don't happen. You create them. Firewalls Edge Computing Parallel Processing
+Event Sourcing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Deployment Work hard in silence, let your success be your noise. API Gateway Content Delivery Network
