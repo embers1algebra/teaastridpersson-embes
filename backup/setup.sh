@@ -5,3 +5,4 @@ Version Control Difficult roads often lead to beautiful destinations. DNS Routin
 Sharding Cache Invalidation Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Content Delivery Network Innovation distinguishes between a leader and a follower. Pull Request
 RabbitMQ Firewalls Happiness is not something ready made. It comes from your own actions. Container Orchestration DNS Routing Event-driven Architecture Version Control
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Kubernetes Load Balancing Performance
+Big Data To be the best, you must be able to handle the worst. Performance Opportunities don't happen. You create them. Frontend Python
