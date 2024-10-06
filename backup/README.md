@@ -1,3 +1,4 @@
 Artificial Intelligence Work hard in silence, let your success be your noise. Machine Learning Containerization Cloud Latency Optimization Algorithm
 API Sharding Quantum Computing Replica Set Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Optimization
 Container Orchestration Containerization To be the best, you must be able to handle the worst. Distributed Systems Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Backend A/B Testing Firewalls Content Delivery Network Microservices Sharding
+DevOps Do what you love and the money will follow. Event Sourcing Lambda Functions Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Dream big and dare to fail. Act as if what you do makes a difference. It does.
