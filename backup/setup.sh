@@ -4,3 +4,4 @@ Serverless Message Queue Kafka Agile Python Automation Distributed Systems Load 
 Version Control Difficult roads often lead to beautiful destinations. DNS Routing Cloud Kafka DevOps Pull Request Python Parallel Processing Kubernetes Predictive Analytics
 Sharding Cache Invalidation Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Content Delivery Network Innovation distinguishes between a leader and a follower. Pull Request
 RabbitMQ Firewalls Happiness is not something ready made. It comes from your own actions. Container Orchestration DNS Routing Event-driven Architecture Version Control
+Great things never come from comfort zones. Simplicity is the ultimate sophistication. Kubernetes Load Balancing Performance
