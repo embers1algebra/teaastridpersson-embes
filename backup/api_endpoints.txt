@@ -7,3 +7,4 @@ Machine Learning JavaScript Data Pipeline Stay hungry, stay foolish. Data Scienc
 Container Orchestration To be the best, you must be able to handle the worst. Cache Invalidation Frontend Database Indexing API React Deployment Firewalls
 DNS Routing WebSockets Cloud Functions Monitoring Neural Networks Frontend GraphQL Load Testing Cloud Artificial Intelligence Kubernetes
 Firewalls Database Performance Stay hungry, stay foolish. Load Balancing Cloud Functions Happiness is not something ready made. It comes from your own actions. Pull Request Do what you love and the money will follow.
+Algorithm Testing Success is how high you bounce when you hit bottom. Lambda Functions Content Delivery Network Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Predictive Analytics Kafka Code Review Backend
