@@ -1,3 +1,4 @@
 Framework Server Response Distributed Systems Don't be afraid to give up the good to go for the great. Performance Latency Optimization Difficult roads often lead to beautiful destinations. A/B Testing
 Virtual Machines Lambda Functions WebSockets Parallel Processing Zero Downtime Deployment DevOps Logging API Gateway Success doesn’t just find you. You have to go out and get it. A/B Testing Multi-threading Don't be afraid to give up the good to go for the great. Kafka OAuth
 Neural Networks Load Testing Success usually comes to those who are too busy to be looking for it. Message Queue Success is not in what you have, but who you are. Logging Stay hungry, stay foolish. Scalability Zero Downtime Deployment Do what you love and the money will follow. Optimization DNS Routing Serverless Difficult roads often lead to beautiful destinations.
+Database WebSockets Multi-threading If you can dream it, you can do it. Message Queue Python Event Sourcing

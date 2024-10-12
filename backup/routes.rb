@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and
 NLP Success usually comes to those who are too busy to be looking for it. React Testing Python Machine Learning Docker Database Indexing Success doesn’t just find you. You have to go out and get it. UX Optimization JavaScript Backend CI/CD Database Event Sourcing
 Innovation distinguishes between a leader and a follower. Agile Act as if what you do makes a difference. It does. NLP Deployment Database Testing Success is how high you bounce when you hit bottom. JavaScript Data Science Message Queue
 Artificial Intelligence Kafka API Containerization NLP
+Serverless Don't be afraid to give up the good to go for the great. IoT GraphQL Scalability Microservices Backend
