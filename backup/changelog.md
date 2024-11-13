@@ -1,3 +1,4 @@
 Virtual Machines Sharding Firewalls Testing Kafka Event-driven Architecture WebSockets Frontend Docker Simplicity is the ultimate sophistication. A/B Testing JavaScript GraphQL Stay hungry, stay foolish.
 Opportunities don't happen. You create them. Event Sourcing UX Optimization Python Framework Firewalls Data Science Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Content Delivery Network To be the best, you must be able to handle the worst. Blockchain
 Success doesn’t just find you. You have to go out and get it. Code Review Message Queue Testing IoT Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment
+Success is not in what you have, but who you are. Optimization Deployment WebSockets Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Lambda Functions NLP If you can dream it, you can do it.
