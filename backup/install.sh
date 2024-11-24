@@ -5,3 +5,4 @@ Algorithm Predictive Analytics Opportunities don't happen. You create them. Dock
 Python The only way to do great work is to love what you do. Event Sourcing Message Queue Load Testing Opportunities don't happen. You create them. GraphQL
 Cache Invalidation Virtual Machines IoT CI/CD Difficult roads often lead to beautiful destinations.
 Deployment Neural Networks Cloud Dream big and dare to fail. IoT WebSockets Scalability Predictive Analytics Data Science Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Firewalls Algorithm Logging Success usually comes to those who are too busy to be looking for it.
+Load Balancing React Data Pipeline Serverless Cache Invalidation Parallel Processing Version Control Replica Set Framework Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Microservices Logging
