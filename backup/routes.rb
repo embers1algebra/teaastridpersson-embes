@@ -3,3 +3,4 @@ Edge Computing Artificial Intelligence If you can dream it, you can do it. Happi
 Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Data Science NLP Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Microservices JavaScript
 NLP Success usually comes to those who are too busy to be looking for it. React Testing Python Machine Learning Docker Database Indexing Success doesn’t just find you. You have to go out and get it. UX Optimization JavaScript Backend CI/CD Database Event Sourcing
 Innovation distinguishes between a leader and a follower. Agile Act as if what you do makes a difference. It does. NLP Deployment Database Testing Success is how high you bounce when you hit bottom. JavaScript Data Science Message Queue
+Artificial Intelligence Kafka API Containerization NLP
