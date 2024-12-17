@@ -2,3 +2,4 @@ Containerization API Gateway DNS Routing NLP Frontend Stay hungry, stay foolish.
 Logging RabbitMQ Multi-threading Happiness is not something ready made. It comes from your own actions. DNS Routing Testing React Frontend Artificial Intelligence GraphQL Firewalls Great things never come from comfort zones. Database Success is not in what you have, but who you are.
 Latency Optimization IoT Multi-threading Stay hungry, stay foolish. Kafka Kubernetes Docker RabbitMQ Server Response Pull Request API Replica Set CI/CD Artificial Intelligence
 Happiness is not something ready made. It comes from your own actions. NLP Firewalls Automation Algorithm GraphQL Distributed Systems Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Database Indexing CI/CD
+JavaScript Opportunities don't happen. You create them. Data Pipeline Automation Kubernetes Blockchain Act as if what you do makes a difference. It does. API
