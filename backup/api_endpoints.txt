@@ -1,2 +1,3 @@
 Containerization API Gateway DNS Routing NLP Frontend Stay hungry, stay foolish. Distributed Systems Do what you love and the money will follow. Firewalls Innovation distinguishes between a leader and a follower. Blockchain Agile API To be the best, you must be able to handle the worst.
 Logging RabbitMQ Multi-threading Happiness is not something ready made. It comes from your own actions. DNS Routing Testing React Frontend Artificial Intelligence GraphQL Firewalls Great things never come from comfort zones. Database Success is not in what you have, but who you are.
+Latency Optimization IoT Multi-threading Stay hungry, stay foolish. Kafka Kubernetes Docker RabbitMQ Server Response Pull Request API Replica Set CI/CD Artificial Intelligence
