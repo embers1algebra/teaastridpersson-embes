@@ -1,1 +1,2 @@
 Serverless Scalability Backend Database To be the best, you must be able to handle the worst. DevOps Quantum Computing Simplicity is the ultimate sophistication.
+Edge Computing Artificial Intelligence If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Predictive Analytics The only way to do great work is to love what you do. Deployment Success is not in what you have, but who you are. JWT UX Optimization RabbitMQ Agile Data Pipeline
