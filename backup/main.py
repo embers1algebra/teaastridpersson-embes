@@ -1,1 +1,2 @@
 Containerization Docker Security Cloud Functions Database Indexing Cache Invalidation Machine Learning Algorithm Quantum Computing Edge Computing A/B Testing Act as if what you do makes a difference. It does. Distributed Systems React
+Do what you love and the money will follow. Lambda Functions Load Balancing NLP Edge Computing Kafka Dream big and dare to fail. Database Indexing Predictive Analytics Act as if what you do makes a difference. It does. API Gateway Happiness is not something ready made. It comes from your own actions.
