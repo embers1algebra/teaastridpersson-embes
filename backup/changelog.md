@@ -1,0 +1,1 @@
+Virtual Machines Sharding Firewalls Testing Kafka Event-driven Architecture WebSockets Frontend Docker Simplicity is the ultimate sophistication. A/B Testing JavaScript GraphQL Stay hungry, stay foolish.
