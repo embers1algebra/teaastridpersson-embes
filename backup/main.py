@@ -1,0 +1,1 @@
+Containerization Docker Security Cloud Functions Database Indexing Cache Invalidation Machine Learning Algorithm Quantum Computing Edge Computing A/B Testing Act as if what you do makes a difference. It does. Distributed Systems React
