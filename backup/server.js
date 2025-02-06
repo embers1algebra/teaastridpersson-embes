@@ -1,1 +1,2 @@
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. Testing WebSockets Python Blockchain Predictive Analytics Event Sourcing Backend Machine Learning Database Indexing Kafka Version Control Lambda Functions Algorithm
+Simplicity is the ultimate sophistication. Code Review Neural Networks Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Multi-threading Agile Work hard in silence, let your success be your noise. Load Testing
